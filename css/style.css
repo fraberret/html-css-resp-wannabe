@@ -137,6 +137,7 @@ img {
     
 }
 
+/* mobile */
 @media screen and (max-width:480px) {
    
    .container{
@@ -156,6 +157,12 @@ img {
     margin-bottom: 50px;
    }
    
-   
+   .why-us .col-left{
+    width: 100%;
+   }
 
+   .why-us .col-right{
+    width: 100%;
+    margin-top: 50px;
+   }
 }
